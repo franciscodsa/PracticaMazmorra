@@ -1,0 +1,28 @@
+
+h
+java:S11925"FDefine a constant instead of duplicating this literal "Oeste" 3 times.(¾ƒ¬»ıÿÿÿÿ8¸¸—ã¹1
+c
+java:S11922"FDefine a constant instead of duplicating this literal "Norte" 3 times.(”‡Åè8¸¸—ã¹1
+J
+java:S1604d"(Make this anonymous inner class a lambda(›¤Îşûÿÿÿÿ8¹¸—ã¹1
+E
+java:S1604s"(Make this anonymous inner class a lambda(äáÑ‚8¹¸—ã¹1
+K
+java:S1604‰"(Make this anonymous inner class a lambda(Õ“‰Úúÿÿÿÿ8¹¸—ã¹1
+K
+java:S1604˜"(Make this anonymous inner class a lambda(êîá¹ÿÿÿÿÿ8¹¸—ã¹1
+F
+java:S1604¤"(Make this anonymous inner class a lambda(¦“ı¸8¹¸—ã¹1
+F
+java:S1604°"(Make this anonymous inner class a lambda(£Œ¹‘8¹¸—ã¹1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ä¤û¥üÿÿÿÿ8Ò¸—ã¹1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ì˜‚úÿÿÿÿ8Õ¸—ã¹1
+f
+java:S3252["IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8Ú¸—ã¹1
+Z
+java:S1854ˆ"<Remove this useless assignment to local variable "rootNode".(‡ŠÛŠ8í°ôâ¹1
+K
+java:S1481ˆ"-Remove this unused "rootNode" local variable.(‡ŠÛŠ8í°ôâ¹1
+k
+java:S6201›"HReplace this instanceof check and cast with 'instanceof Element element'(êÃ­òşÿÿÿÿ8ï°ôâ¹1
